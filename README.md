@@ -8,8 +8,8 @@
 
 ## 💻 Sobre mim
 
-🎓 Técnica em Informática para Internet pelo Senac  
-📚 Atualmente estudando desenvolvimento de software (ADS) pela Uninter
+🎓 Técnica em Informática para Internet pelo Senac  <br>
+📚 Atualmente estudando desenvolvimento de software (ADS) pela Uninter <br>
 🚀 Buscando oportunidades para desenvolver minhas habilidades
 
 ---
